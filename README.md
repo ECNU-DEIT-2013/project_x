@@ -1,4 +1,4 @@
-# {{ projectName }}
+# {{ project_x }}
 
 A web app built using polymer.dart.
 
